@@ -28,7 +28,7 @@ class TestTriangle
     public static void main(String[] args)
     {
         Triangle tobj;
-        Triangle t= new Triangle(18.0f,16.0f,12.0f);
+        Triangle t= new Triangle(18.20f,16.22f,12.97f);
         System.out.println(" SIN θ of Triangle is = "+t.sin());
         System.out.println(" COS θ of Triangle is = "+t.cos());
         System.out.println(" TAN θ of Triangle is = "+t.tan());
